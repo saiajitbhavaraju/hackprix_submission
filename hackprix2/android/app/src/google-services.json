@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792095592397",
+    "project_id": "ecosnap-80ac1",
+    "storage_bucket": "ecosnap-80ac1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792095592397:android:f1344f86dd2da83f2e3e84",
+        "android_client_info": {
+          "package_name": "com.eco.snap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwX1s9Gjsa2FaXIk79QyVO_TVpOkub_9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
