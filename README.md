@@ -16,12 +16,6 @@ The repository for the AWS EC2 backend is: https://github.com/RahulSangubotla/Ec
 ![WhatsApp Image 2025-06-15 at 17 11 03_930af809](https://github.com/user-attachments/assets/466522a1-06f4-4e0d-baec-1f1b201508be)
 ![WhatsApp Image 2025-06-15 at 17 11 08_470f2bcb](https://github.com/user-attachments/assets/c7e155f8-40e5-407f-822e-b94a376b720b)
 
-|                         |                         |                         |
-| :----------------------: | :----------------------: | :----------------------: |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
 
 📁 Repository Structure
 hackprix2: Flutter frontend folder.
